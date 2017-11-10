@@ -1,0 +1,84 @@
+basics:
+  name: ""
+  label: ""
+  image: ""
+  email: ""
+  phone: ""
+  url: ""
+  summary: ""
+  location:
+    address: ""
+    postalCode: ""
+    city: ""
+    countryCode: ""
+    region: ""
+  profiles:
+    -
+      network: ""
+      username: ""
+      url: ""
+skills:
+  -
+    name: ""
+    level: ""
+    keywords:
+      - ""
+work:
+  - 
+    company: ""
+    startDate: ""
+    endDate: ""
+    highlights:
+      - ""
+    position: ""
+education:
+  -
+    institution: ""
+    area: ""
+    studyType: ""
+    startDate: ""
+    endDate: ""
+awards:
+  -
+    title: ""
+    date: ""
+    awarder: ""
+    summary: ""
+publications:
+  -
+    name: ""
+    publisher: ""
+    releaseDate: ""
+    url: ""
+    summary: ""
+languages:
+  -
+    language: ""
+    fluency: ""
+interests:
+  -
+    name: ""
+    keywords: ""
+references:
+  -
+    name: ""
+    reference: ""
+projects:
+  -
+    name: ""
+    description: ""
+    highlights:
+      - ""
+    keywords:
+      - ""
+    startDate: ""
+    endDate: ""
+    url: ""
+    roles:
+      - ""
+    entity: ""
+    type: ""
+meta:
+  canonical: ""
+  version: ""
+  lastModified: ""

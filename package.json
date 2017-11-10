@@ -1,0 +1,45 @@
+{
+  "name": "yaml-resume",
+  "version": "1.0.0",
+  "description": "yaml version of json-resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grimsleydl/yaml-resume.git"
+  },
+  "author": "David Grimsley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grimsleydl/yaml-resume/issues"
+  },
+  "homepage": "https://github.com/grimsleydl/yaml-resume#readme",
+  "dependencies": {
+    "dos2unix": "^1.1.2",
+    "html-pdf": "^2.2.0",
+    "jsonresume-theme-concise-serif": "0.0.4",
+    "jsonresume-theme-crispy-potato": "^0.1.6",
+    "jsonresume-theme-modern": "0.0.18",
+    "jsonresume-theme-moon": "^1.7.22",
+    "jsonresume-theme-paper": "^0.3.5",
+    "jsonresume-theme-paper-condensed": "^0.3.4",
+    "jsonresume-theme-paper-fixed": "^0.1.1",
+    "jsonresume-theme-paper-plus-plus": "^0.4.2",
+    "jsonresume-theme-print": "^0.1.9",
+    "jsonresume-theme-printclassy": "^1.1.1",
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-short-remix": "^0.1.1",
+    "jsonresume-theme-shorter": "^0.1.6",
+    "jsonresume-theme-shorter-bill": "^0.2.0",
+    "jsonresume-theme-shorter-miles": "^0.1.1",
+    "jsonresume-theme-smart": "^1.0.2",
+    "phantomjs-prebuilt": "^2.1.16",
+    "resume-cli": "^0.4.19",
+    "watch-run": "^1.2.5",
+    "yamljs": "^0.3.0",
+    "yargs": "^10.0.3",
+    "yargs-parser": "^8.0.0"
+  }
+}
